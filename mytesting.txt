@@ -1,3 +1,6 @@
 This life is not our own, we are just passing by.
 There is a time to be born and a time to die. We will all give account of the
 life lived here on earth.
+
+I added a new branch and would want to test the database connection to make 
+sure they are all working properly.
